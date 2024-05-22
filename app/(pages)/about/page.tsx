@@ -1,8 +1,9 @@
 
 "use client"
 import React from 'react'
-import AboutVideo from '../(root)/(home)/AboutVideo'
+
 import { HoverEffect } from '@/components/ui/card-hover-effect';
+import AboutVideo from '@/app/(root)/(home)/AboutVideo';
 
 const page = () => {
   return (
